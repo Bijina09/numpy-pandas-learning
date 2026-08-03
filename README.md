@@ -18,7 +18,7 @@ Each folder contains:
 
 | Day   | Topic                    | Status |
 | ----- | ------------------------ | ------ |
-| Day 1 | NumPy Arrays             | ⏳     |
+| Day 1 | NumPy Arrays             | ✅     |
 | Day 2 | Array Indexing & Slicing | ⏳     |
 | Day 3 | Array Operations         | ⏳     |
 | Day 4 | Reshaping Arrays         | ⏳     |
