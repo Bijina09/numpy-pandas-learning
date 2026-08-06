@@ -20,7 +20,7 @@ Each folder contains:
 | ----- | ------------------------ | ------ |
 | Day 1 | NumPy Arrays             | ✅     |
 | Day 2 | Array Indexing & Slicing | ✅     |
-| Day 3 | Array Operations         | ⏳     |
+| Day 3 | Array Operations         | ✅     |
 | Day 4 | Reshaping Arrays         | ⏳     |
 | Day 5 | Statistics with NumPy    | ⏳     |
 
