@@ -16,12 +16,12 @@ Each folder contains:
 
 ## Progress
 
-| Day   | Topic                             | Status |
-| ----- | --------------------------------- | ------ |
-| Day 1 | NumPy Arrays                      | ✅     |
-| Day 2 | Array Indexing & Slicing          | ✅     |
-| Day 3 | Array Operations                  | ✅     |
-| Day 4 | Reshaping Arrays & Joining Arrays | ✅     |
-| Day 5 | Statistics with NumPy             | ⏳     |
+| Day   | Topic                                | Status |
+| ----- | ------------------------------------ | ------ |
+| Day 1 | NumPy Arrays                         | ✅     |
+| Day 2 | Array Indexing & Slicing             | ✅     |
+| Day 3 | Array Operations                     | ✅     |
+| Day 4 | Reshaping Arrays & Joining Arrays    | ✅     |
+| Day 5 | NumPy Splitting, Searching & Sorting | ✅     |
 
 More coming soon...
